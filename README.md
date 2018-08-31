@@ -27,23 +27,23 @@ If you have downloaded the source code:
 
 Once you have downloaded the source code, you can do following three things:
  * Add new contacts
- * Search for a Contact by full name
+ * Search for a contact by full name
  * View all the contacts
 
 Pycontacts supports five commands in terminal:  `--add, --number, --email, --list, --show`
 
  
-* for adding new contacts
+* For adding new contacts
 ```
 py-contacts.py --add Aakash Khatri --number 0919910131964 --email akhatri@gmail.com
 ```
 
-* for searching a contact by full name
+* For searching a contact by full name
 ```
 py-contacts.py --show Aakash Khatri
 ```
 
-* for viewing all the contacts in file
+* For viewing all the contacts in file
 ```
 py-contacts.py --list
 ```
