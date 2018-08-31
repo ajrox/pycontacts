@@ -25,7 +25,7 @@ If you have downloaded the source code:
 
 ### DESCRIPTION
 
-Once you have downloaded the source code, you can do following 3 things:
+Once you have downloaded the source code, you can do following three things:
  * Add new contacts
  * Search for a Contact by full name
  * View all the contacts
