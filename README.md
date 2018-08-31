@@ -32,7 +32,7 @@ Once you have downloaded the source code, you can do following three things:
 
 Pycontacts supports five commands in terminal:  `--add, --number, --email, --list, --show`
 
-Open terminal in the pycontacts folder and
+Open terminal in the pycontacts folder and then,
  
 * For adding new contacts
 ```
